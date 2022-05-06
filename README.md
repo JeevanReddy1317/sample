@@ -1,2 +1,2 @@
 # sample
-new project
+new project repo
